@@ -8,7 +8,7 @@ hydro_capacity_kw = 2000000
 wind_capacity_kw = 1200000
 solar_capacity_kw = 800000
 geothermal_capacity_kw = 1000000
-diesel_generator_backup_capacity_kw = 500000  # capacidad de respaldo diésel
+diesel_generator_backup_capacity_kw = 0  # capacidad de respaldo diésel eliminada
 biomass_capacity_kw = 300000
 
 # Factores de emisión (kg CO2/kWh)
